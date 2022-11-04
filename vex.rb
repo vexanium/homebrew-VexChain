@@ -1,6 +1,6 @@
 class Vex < Formula
 
-   homepage "https://github.com/vexanium/vexchain2"
+   homepage "https://github.com/vexanium/VexChain"
    revision 0
    url "https://github.com/vexanium/VexChain/archive/v2.1.0.tar.gz"
    version "2.1.0"
