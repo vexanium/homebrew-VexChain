@@ -1,4 +1,4 @@
-class VexChain < Formula
+class Vex < Formula
 
    homepage "https://github.com/vexanium/VexChain"
    revision 0
